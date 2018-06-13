@@ -1,0 +1,23 @@
+{
+  "name": "mashro3y",
+  "version": "1.0.0",
+  "description": "Starting my Crowd funding Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohamed-Allam/mashro3y.git"
+  },
+  "author": "Mohamed Allam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohamed-Allam/mashro3y/issues"
+  },
+  "homepage": "https://github.com/Mohamed-Allam/mashro3y#readme",
+  "dependencies": {
+    "chalk": "2.4.1",
+    "express": "4.16.3"
+  }
+}
