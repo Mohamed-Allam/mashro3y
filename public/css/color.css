@@ -1,0 +1,31 @@
+/************************************BACKGROUND COLOR START*************************************/
+.top-bar .holder, .top-bar .holder:before, #nav li:hover > a, #nav li ul li a:hover, #nav li ul li:hover > a, .search-box, .top-bar .left-box .dropdown-menu li a:hover, .welcome-section .box:hover .icon-col:before, .donate-goal-box .progress-bar, .causes-style-1 .owl-theme .owl-dots .owl-dot.active span, .causes-style-1 .owl-theme .owl-dots .owl-dot:hover span, .event-style-1 .bx-wrapper .bx-pager.bx-default-pager a:hover, .event-style-1 .bx-wrapper .bx-pager.bx-default-pager a.active, .event-style-1 a.plus, .style-1 .text-box:before, .testimonial-style-1 .owl-theme .owl-dots .owl-dot.active span, .testimonial-style-1 .owl-theme .owl-dots .owl-dot:hover span, .team-social-box-1, .team-style-1 .box .text-box, .team-style-1 .box .team-social-box-1 ul li a:hover, .project-style-1 .owl-theme .owl-controls .owl-nav [class*="owl-"]:hover, .testimonial-style-2 .bx-wrapper .bx-pager.bx-default-pager a:hover, .testimonial-style-2 .bx-wrapper .bx-pager.bx-default-pager a.active, .shop-style-1 .box .text-box a.like:hover, .inner-header .top-bar, #filter li a:hover, #filter .current, #filter li a.selected, .pagination-box .pagination > li > a:hover, .pagination-box .pagination > li > span:hover, .pagination-box .pagination > li > a:focus, .pagination-box .pagination > li > span:focus, .pagination-box .pagination li.active a, .gallery-section .thumb .caption:before, .gallery-section .thumb .caption:after, .review-section .nav-tabs > li.active > a, .review-section .nav-tabs > li.active > a:hover, .review-section .nav-tabs > li.active > a:focus, .shop-slider .owl-theme .owl-dots .owl-dot.active span, .shop-slider .owl-theme .owl-dots .owl-dot:hover span, .team-style-2 .box, .coming-soon .countdown-amount:before, .coming-soon .inner a.btn-style-1:after, input.radio:checked + label > span.show-hover, .testimonial-style-3 .owl-theme .owl-dots .owl-dot.active span, .testimonial-style-3 .owl-theme .owl-dots .owl-dot:hover span, .style-1 .frame .sticky, .recent-news .owl-theme .owl-controls .owl-nav [class*="owl-"]:hover, .news-grid blockquote, .share-row ul li a:hover, .event-timer .countdown-section, .logo-row .navbar-toggle, .logo-row .navbar-inverse .navbar-toggle:hover, .logo-row .navbar-inverse .navbar-toggle:focus{
+	background-color: #14afb4;
+}
+/************************************BACKGROUND COLOR END*************************************/
+
+/***********************************************TEXT COLOR START************************************************/
+.heading-style-1 span.title, .heading-style-1 em, .welcome-section .box .icon-col, .welcome-section .box .icon-col:before, .welcome-section .box:hover .text-col h4 a, .causes-style-1 .box .text-box a.link .fa, .causes-goal-box strong.amount, .pie-title-center b, .event-style-1-box a.link .fa, .event-style-1-box .left-box p a:hover, .event-style-1-box:hover strong.date, .style-1 a.link .fa, .style-1 a.btn-more, .style-1:hover, .team-style-1 .box:hover .team-social-box-1 ul li a, .team-style-1 .box:hover .text-box h4 a, .team-style-1 .box:hover .text-box em.disp, .event-widget strong.date, .event-widget ul li:hover span.time, .tweets-box p a, .tweets-box .fa, .tweets-box span.time, .copyrights-section strong.copy a:hover, .project-style-1 .box .outer .text-box strong.month, .project-style-1 .box:hover .text-box h3 a, .shop-style-1 .box .text-box span.price, .shop-style-1 .box .text-box a.like, .shop-style-1 .box:hover .text-box h3 a, .shop-style-1 .box:hover span.cut-price, .project-3-col .text-box strong.month, .error-section .inner h1, .error-section .inner strong.title, .error-section .inner form button[type="submit"], .gallery-section .thumb .inner a.link:hover, .rating li a, .team-social-box-2 ul li a:hover, .coming-soon .countdown-amount, .coming-soon .countdown-period, .coming-soon .inner a.btn-style-1, .style-1:hover .text-box h3 a, .link-post a.link-text, .sidebar-box form button[type="submit"], .recent-widget .text-col span.date .fa, .recent-news .owl-next:before, .recent-news .owl-prev:before, .upcoming-event-widget .date-box, .sidebar-box .box a, .sidebar-box .box .fa, .sidebar-box .box span, .upcoming-event-widget .text-col a:hover, .recent-widget .text-col a:hover, .address-box ul li .fa, .address-box ul li:hover p, .address-box ul li:hover p a, .heading-col h2 span, .address-col ul li .fa, .address-col ul li:hover p, .address-col ul li:hover p a {
+	color: #14afb4;
+}
+/***********************************************TEXT COLOR END************************************************/
+
+
+
+/************************************BUTTON COLOR START*************************************/
+a.btn-style-1, .logo-row a.btn-donate, .donate-goal-box a.btn-style-1:after, .event-style-1-box .right-box a.btn-detail:after, .event-style-1-box:hover a.btn-detail, .join-form input[type="submit"], .newsletter-box form button[type="submit"], .comment-box input[type="submit"], .coming-soon .inner form input[type="submit"], .form-row input[type="submit"], .sidebar-box .newsletter-box-2 form button[type="submit"], .contact-row form input[type="submit"], .contact-form form input[type="submit"] {
+	background-color: #14afb4;
+}
+/************************************BUTTON COLOR END*************************************/
+
+
+
+/************************************BORDER COLOR START*************************************/
+.event-style-1-box:hover strong.date, .coming-soon .countdown-section:after, .logo-row .navbar-toggle, .logo-row .navbar-inverse .navbar-toggle:hover, .logo-row .navbar-inverse .navbar-toggle:focus{
+ border-color:#14afb4;
+}
+/************************************BORDER COLOR END*************************************/
+
+/************************************Box SHADOW COLOR START*************************************/
+
+/************************************Box SHADOW COLOR END*************************************/
