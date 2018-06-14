@@ -2,9 +2,11 @@
   "name": "mashro3y",
   "version": "1.0.0",
   "description": "Starting my Crowd funding Project",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "set DEBUG=app & node app.js",
+    "lint": "eslint app.js"
   },
   "repository": {
     "type": "git",
@@ -19,7 +21,12 @@
   "dependencies": {
     "chalk": "2.4.1",
     "debug": "3.1.0",
+    "eslint": "4.19.1",
     "express": "4.16.3",
     "morgan": "1.9.0"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "12.1.0",
+    "eslint-plugin-import": "2.12.0"
   }
 }
