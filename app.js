@@ -3,6 +3,7 @@ const chalk = require('chalk');
 const debug = require('debug')('app');
 const morgan = require('morgan');
 const path = require('path');
+var mocks = require("./src/Mocks/qatarFundsMocks")
 
 
 
@@ -30,7 +31,9 @@ app.get('/', (req, res) => {
     'index',
     {
       title: 'Qatar Funds',
-      nav : nav
+      nav : nav,
+      projects : mocks.projects,
+      events: mocks.events
     }
   );
 });
