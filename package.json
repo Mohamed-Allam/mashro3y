@@ -33,8 +33,8 @@
     "eslint-plugin-import": "2.12.0"
   },
   "nodemonConfig": {
-    "delay": "2500",
-    "restartable": "rs",
+    
+    "restartable": "rs", 
     "ignore": [
       "node_modules/**/node_modules"
     ],
