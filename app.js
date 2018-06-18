@@ -38,6 +38,17 @@ app.get('/', (req, res) => {
   );
 });
 
+app.get('/about', (req, res) => {
+  // res.send('Hello from My Crowd funding App :) !');
+  // res.sendFile(path.join(__dirname, 'views/index.html'));
+  res.render(
+    'about',
+    {
+      title: 'About Us',
+    }
+  );
+});
+
 app.listen(port, () => {
   debug(`... App is up & Running on port ${chalk.green(port)}`);
 });
